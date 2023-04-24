@@ -7,7 +7,7 @@
     width: 100%;
 
 }
-.form-search i {
+.form-search i{
     position: absolute;
     left: 11px;
     top: 12px;
@@ -30,12 +30,13 @@
 .card-item{
     display: flex;
     border-radius: 15px;
-    justify-content: space-between;
+    justify-content:space-between;
     width: 30%;
     font-size: 18px;
     width: 26%;
     box-sizing: border-box;
     padding: 20px;
+    
 }
 .card-item .carf-left{
     width: 50%;
